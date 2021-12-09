@@ -1,5 +1,14 @@
 /.idea/
+/*/.idea/
+
 /.bsp/
-/project/target/
-/project/project/target/
+/*/.bsp/
+
 /target/
+/*/target/
+
+/project/target/
+/*/project/target/
+
+/project/project/target/
+/*/project/project/target/
