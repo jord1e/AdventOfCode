@@ -1,4 +1,5 @@
 package nl.jrdie.aoc2021
+package one
 
 import scala.io.Source
 import scala.util.Using

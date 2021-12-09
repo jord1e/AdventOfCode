@@ -1,4 +1,5 @@
 package nl.jrdie.aoc2021
+package one
 
 object Day1 {
   def timesIncreased(depths: Iterator[Int]): Int = {

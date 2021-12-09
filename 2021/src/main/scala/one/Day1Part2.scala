@@ -1,6 +1,5 @@
 package nl.jrdie.aoc2021
-
-import Day1Part1.getClass
+package one
 
 import scala.collection.mutable
 import scala.collection.mutable.ArrayBuffer

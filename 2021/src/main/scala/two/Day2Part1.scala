@@ -1,7 +1,7 @@
 package nl.jrdie.aoc2021
 package two
 
-import Day1Part1.getClass
+import nl.jrdie.aoc2021.one.Day1Part1.getClass
 
 import scala.io.Source
 import scala.util.{Failure, Success, Using}
